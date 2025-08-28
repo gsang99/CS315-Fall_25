@@ -1,5 +1,6 @@
 # CS315-Fall_25
-//Gemma Sangervasi, 007993564, 
+//Gemma Sangervasi, 007993564, https://github.com/gsang99/CS315-Fall_25.git
+
 
 //Collaboration and sources
 //The unsorted linked list, sorted linked list, and sorted vector list were all of my own work, I used resources like geeksforgeeks to help me create binary search and what structure I needed in order to make it work
